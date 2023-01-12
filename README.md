@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🙋‍♂ I am Emirhan KEŞKEK, a university student from Turkey. I am currently studying mechatronics engineering.
+🙋‍♂ I am Emirhan KEŞKEK, a university student from Turkey. I am studying mechatronics engineering.
 
 🌱 I am currently learning the basics of CS.
 
