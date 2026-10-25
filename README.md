@@ -1,10 +1,22 @@
-### Hi there 👋
+Hi, I'm Emirhan 👋
 
-🙋‍♂ I am Emirhan KEŞKEK, a university student from Turkey. I am studying mechatronics engineering.
+Mechatronics engineering student at **Kocaeli University** (graduating February 2027), working on **legged robotics, control systems and embedded hardware**.
 
-🌱 I am currently learning the basics of CS.
+My work starts in simulation: I model a system in **MATLAB/Simulink and Simscape Multibody**, design and tune the controller there, then take it to real hardware. Lately I've been moving my quadruped robot into **NVIDIA Isaac Lab** to work on reinforcement-learning-based locomotion.
 
-💬 You can ask me anything about anything on my repositories.
+- 🦿 Co-lead of the **KOUDRUPED** university robotics team: a 12-DOF quadruped robot supported by TÜBİTAK 2209-B
+- 🎛️ Control: PID and lead-lag design, sliding mode control, system identification, SIL / PIL / HIL testing on STM32
+- 🔌 Hardware: STM32, Raspberry Pi, PCB design in Altium Designer
+- 📐 Mechanical: SolidWorks, Siemens NX
+- 🌱 Currently learning: Isaac Lab and reinforcement learning for locomotion
 
-🧗‍♂️ Outside the world of tech too, I enjoy pushing myself to develop new skills. I am currently trying to learn German and reach a goal of reading.
+Projects
 
+| Project | What it is |
+|---|---|
+| [koudruped-simulink](https://github.com/Eemirhan/koudruped-simulink) | Kinematics, gait and balance control of a 12-DOF quadruped in Simulink / Simscape Multibody |
+| [koudruped-isaaclab](https://github.com/Eemirhan/koudruped-isaaclab) | The same robot brought into NVIDIA Isaac Lab as a base for RL locomotion (in progress) |
+| [bldc-foc-driver-pcb](https://github.com/Eemirhan/bldc-foc-driver-pcb) | 4-layer single-axis BLDC/FOC driver board designed in Altium for quadruped joint actuators |
+| [realtime-control-labs](https://github.com/Eemirhan/realtime-control-labs) | DC motor control on STM32: sliding mode control, system identification, PID tuning, HIL |
+
+I'm looking for internship and junior opportunities in robotics and control.
